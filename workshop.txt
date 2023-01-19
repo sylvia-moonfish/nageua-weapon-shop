@@ -1,0 +1,6 @@
+version=1
+id=2920160007
+title=Nageua Weapon Shop
+description=Adds various weapons.
+tags=Build 41;Weapons
+visibility=public
