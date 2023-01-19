@@ -5,12 +5,24 @@ module Base {
             rotate = 115.0000 0.0000 0.0000,
             bone = Bip01_BackPack,
         }
+
+        attachment mihawk_sword_back {
+            offset = 0.0000 0.0000 0.1500,
+            rotate = -90.0000 0.0000 0.0000,
+            bone = Bip01_BackPack,
+        }
     }
 
     model MaleBody {
         attachment sakura_staff_back {
             offset = 0.0000 0.0500 -0.1500,
             rotate = 115.0000 0.0000 0.0000,
+            bone = Bip01_BackPack,
+        }
+
+        attachment mihawk_sword_back {
+            offset = 0.0000 0.0000 0.1500,
+            rotate = -90.0000 0.0000 0.0000,
             bone = Bip01_BackPack,
         }
     }

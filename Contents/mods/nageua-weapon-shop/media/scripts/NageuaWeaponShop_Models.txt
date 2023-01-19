@@ -2,4 +2,8 @@ module Base {
     model SakuraStaff {
 		mesh = weapons/2handed/SakuraStaff,
 	}
+
+	model MihawkSword {
+		mesh = weapons/2handed/MihawkSword,
+	}
 }

@@ -1,3 +1,4 @@
 ItemName_EN = {
     ItemName_NageuaWeaponShop.SakuraStaff = "Sakura's Staff",
+    ItemName_NageuaWeaponShop.MihawkSword = "Yoru",
 }
