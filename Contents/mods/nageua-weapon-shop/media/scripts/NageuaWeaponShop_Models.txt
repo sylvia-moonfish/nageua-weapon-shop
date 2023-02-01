@@ -6,4 +6,8 @@ module Base {
 	model MihawkSword {
 		mesh = weapons/2handed/MihawkSword,
 	}
+
+	model UsopHammer {
+		mesh = weapons/1handed/UsopHammer,
+	}
 }

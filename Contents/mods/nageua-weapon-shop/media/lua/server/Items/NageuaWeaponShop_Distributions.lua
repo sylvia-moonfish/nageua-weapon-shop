@@ -5,3 +5,6 @@ table.insert(ProceduralDistributions["list"]["MeleeWeapons"].items, 0.5)
 
 table.insert(ProceduralDistributions["list"]["MeleeWeapons"].items, "NageuaWeaponShop.MihawkSword")
 table.insert(ProceduralDistributions["list"]["MeleeWeapons"].items, 0.5)
+
+table.insert(ProceduralDistributions["list"]["MeleeWeapons"].items, "NageuaWeaponShop.UsopHammer")
+table.insert(ProceduralDistributions["list"]["MeleeWeapons"].items, 0.5)

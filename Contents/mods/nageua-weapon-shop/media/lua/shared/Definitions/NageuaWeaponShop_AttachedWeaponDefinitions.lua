@@ -25,3 +25,15 @@ AttachedWeaponDefinitions.mihawkSwordStomach = {
         "NageuaWeaponShop.MihawkSword",
     },
 }
+
+AttachedWeaponDefinitions.UsopHammerBelt = {
+    --chance = 10000,
+	chance = 1,
+	weaponLocation = {"Belt Left"},
+	bloodLocations = nil,
+	addHoles = false,
+	daySurvived = 0,
+	weapons = {
+		"NageuaWeaponShop.UsopHammer",
+	},
+}
